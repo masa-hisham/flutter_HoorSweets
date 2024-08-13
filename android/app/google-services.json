@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773146137860",
+    "project_id": "hoor-sweets-5ccd1",
+    "storage_bucket": "hoor-sweets-5ccd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773146137860:android:688279c65fca2a28c26c51",
+        "android_client_info": {
+          "package_name": "com.hoor.sweets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMgFBGjhPs0ZqKEg1i3PtxZ-BGd4a64Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
